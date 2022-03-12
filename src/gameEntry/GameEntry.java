@@ -1,3 +1,5 @@
+package gameEntry;
+
 public class GameEntry {
     private String name;
     private int score;
